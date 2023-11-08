@@ -24,11 +24,11 @@
 
 ​	The data measurement trials were conducted in Dongying, Shandong, China. Two radar systems including a high resolution phased array radar and a multi-frequency fully-polarized radar were used to collect clutter and target data. These two radar systems are shown in Fig. 1. The site of radar systems are shown in Fig. 2.
 
-![1a](\src_pics\1a.png)
+![1a](src_pics/1a.png)
 
 <div align="center">(a) High-resolution phased array radar.</div>
 
-![1b](\src_pics\1b.png)
+![1b](src_pics/1b.png)
 
 <div align="center">(b) Multi-Frequency Fully-Polarized Radar</div>
 
