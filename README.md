@@ -24,17 +24,17 @@
 
 ​	The data measurement trials were conducted in Dongying, Shandong, China. Two radar systems including a high resolution phased array radar and a multi-frequency fully-polarized radar were used to collect clutter and target data. These two radar systems are shown in Fig. 1. The site of radar systems are shown in Fig. 2.
 
-![1a](D:\Desktop\数据共享\Figures\1a.png)
+![1a](\src_pics\1a.png)
 
 <div align="center">(a) High-resolution phased array radar.</div>
 
-![1b](D:\Desktop\数据共享\Figures\1b.png)
+![1b](\src_pics\1b.png)
 
 <div align="center">(b) Multi-Frequency Fully-Polarized Radar</div>
 
 <div align="center">Fig. 1 Two radar systems.</div>
 
-![2](D:\Desktop\数据共享\Figures\2.png)
+![2](\src_pics\2.png)
 
 <div align="center">Fig. 2 Site of radar systems.</div>
 
@@ -44,11 +44,11 @@
 
 ​	In addition to the radar data, auxiliary environment data were also collected to aid analysis. A wind lidar and a temperature and humidity profiler are employed to measure environment conditions including the temperature, humidity, wind direction and wind speed. These two auxiliary environment data acquisition devices are shown in Fig. 3.
 
-![3a](D:\Desktop\数据共享\Figures\3a.png)
+![3a](\src_pics\3a.png)
 
 <div align="center">(a) Wind lidar.</div>
 
-![3b](D:\Desktop\数据共享\Figures\3b.png)
+![3b](\src_pics\3b.png)
 
 <div align="center">(b) Temperature and humidity profiler.</div>
 
@@ -60,25 +60,25 @@
 
 ​	The rain clutter data were collected when the elevation angle is fixed to be 4.71°, 12.23 and 80.71°, respectively. The weather conditions were also recorded at the same time.
 
-![4a](D:\Desktop\数据共享\Figures\4a.png)
+![4a](\src_pics\4a.png)
 
 <div align="center">(a) Power tower.</div>
 
-![4b](D:\Desktop\数据共享\Figures\4b.png)
+![4b](\src_pics\4b.png)
 
 <div align="center">(b) Reservoir.</div>
 
-![4c](D:\Desktop\数据共享\Figures\4c.png)
+![4c](\src_pics\4c.png)
 
 <div align="center">(c) Buildings.</div>
 
-![4d](D:\Desktop\数据共享\Figures\4d.png)
+![4d](\src_pics\4d.png)
 
 <div align="center">(d) Buildings.</div>
 
 <div align="center">Fig. 4 Optical images of ground clutter.</div>
 
-![5](D:\Desktop\数据共享\Figures\5.png)
+![5](\src_pics\5.png)
 
 <div align="center">Fig. 5</div>
 
@@ -88,7 +88,7 @@
 
 ​	The migrating insects and birds were observed employing high-resolution phased array radar and multi-frequency fully-polarized radar, respectively. The radar systems locate on one of migratory routes in east China. A huge number of migratory insects and birds will fly across the Bohai Sea to the Yellow River estuary and head south in autumn each year. For instance, the optical image of an observed bird flock is given in Fig. 6.
 
-![6](D:\Desktop\数据共享\Figures\6.png)
+![6](\src_pics\6.png)
 
 <div align="center">Fig. 6 The optical image of bird flock.</div>
 
@@ -102,11 +102,11 @@
 
 ​	The radar of single drone with uniform motion and uniform acceleration motion were collected by high-resolution phased array radar. The drone used in these experiments is DJI M300, which is shown in Fig. 7. It moved horizontally at three different altitudes. The phased array radar operated at staring mode with azimuth angle fixed to be 259.67°. The drone moved radially along the radar line-of-sight. It has been guaranteed the drone remains within the main beam of radar. The initial position and motion direction of the drone are illustrated in Fig. 8. The distance between the initial position of drone and the phased array radar is around 1815m. The altitude of drone is set to be 90m, 250m and 380m, respectively. The corresponding elevation angle of radar is 2.24°, 7.68° and 11.68°. The real-time kinematic (RTK) measurements of drone are provided to help users determine the real trace of the drone.
 
-![7](D:\Desktop\数据共享\Figures\7.png)
+![7](\src_pics\7.png)
 
 <div align="center">Fig. 7 The drone DJI M300 used in the experiments.</div>
 
-![8](D:\Desktop\数据共享\Figures\8.png)
+![8](\src_pics\8.png)
 
 <div align="center">Fig. 8 The initial position and motion direction of the drone.</div>
 
@@ -118,7 +118,7 @@
 
 ​		The surrounding environment of the location of drone swarm observation trails are depicted in Fig. 9. To ensure all the drones in the swarm, the drone swarm flew along a north-south direction in the rectangle region marked in red in the following figure at an altitude of 250m. The makers P1, P2, P4 and P5 denotes the four vertex of the rectangle region. P3 and P6 denotes the points which are closest to the phased array radar on the longer edge of the rectangle region. The detailed position information of the markers P1~P6 are given in Table 1.
 
-![9](D:\Desktop\数据共享\Figures\9.png)
+![9](\src_pics\9.png)
 
 <div align="center">Fig. 9 The surrounding environment of the experiment location.</div>
 
@@ -135,11 +135,11 @@
 
 ​	Two kinds of formation for drone swarm, the “I” formation and the “V” formation are adopted in current available data. The drone swarm consists of fifteen drones spaced 2m apart. The motion of the drone swarm included the following stages: taking off, flying in formation around a circle, lateral flying in formation, lasting a total of 8.5 minutes. In the lateral flying stage, the drone swarm flew at a velocity of 10m/s in a straight line to south for 240 seconds. The formations of drone swarm are illustrated in Fig. 10.
 
-![10a](D:\Desktop\数据共享\Figures\10a.png)
+![10a](\src_pics\10a.png)
 
 <div align="center">(a) “I” formation.</div>
 
-![10b](D:\Desktop\数据共享\Figures\10b.png)
+![10b](\src_pics\10b.png)
 
 <div align="center">(b) “V” formation.</div>
 
@@ -155,13 +155,13 @@
 
 ### 3.2 Multi-Frequency Fully-Polarized Radar
 
-![T3](D:\Desktop\数据共享\Figures\T3.png)
+![T3](\src_pics\T3.png)
 
 ## 4. Data Loading Method
 
 The original data files are consist of data head, frame head and the high-resolution range profile data. The data head specifies the type of radar systems, channel and waveform parameters. The frame head includes the exact time and beam direction of each pulse. Detailed contents of data head and frame head are given in appendix. The format of radar data is illustrated in Fig. 11. The data storage protocol is available in the appendix. For the convenience of data loading, a program is provided.
 
-![11](D:\Desktop\数据共享\Figures\11.png)
+![11](\src_pics\11.png)
 
 <div align="center">Fig. 11 Format of radar data.</div>
 
@@ -230,27 +230,27 @@ Users can change the ‘file path’ and run the code to load data to MATLAB wor
 
 Illumination of typical data are given in Fig. 12.
 
-![12a](D:\Desktop\数据共享\Figures\12a.png)
+![12a](\src_pics\12a.png)
 
 <div align="center">(a). The HRRP of ground clutter.</div>
 
-![12b](D:\Desktop\数据共享\Figures\12b.png)
+![12b](\src_pics\12b.png)
 
 <div align="center">(b) The range-Doppler diagram of observed rain clutter.</div>
 
-![12c](D:\Desktop\数据共享\Figures\12c.png)
+![12c](\src_pics\12c.png)
 
 <div align="center">(c) The range-Doppler diagram of observed migrating insects and birds.</div>
 
-![12d](D:\Desktop\数据共享\Figures\12d.png)
+![12d](\src_pics\12d.png)
 
 <div align="center">(d) Single drone with uniform acceleration motion. The range-time-intensity diagram of radar echoes.</div>
 
-![12e](D:\Desktop\数据共享\Figures\12e.png)
+![12e](\src_pics\12e.png)
 
 <div align="center">(e) Single drone with rapid maneuvering flying observed by multi-frequency fully-polarized radar.</div>
 
-![12f](D:\Desktop\数据共享\Figures\12f.png)
+![12f](\src_pics\12f.png)
 
 <div align="center">(f) Detection result of drone swarm with “V” formation.</div>
 
